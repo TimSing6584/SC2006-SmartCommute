@@ -1,6 +1,8 @@
 # SC2006 - SmartCommute
 
-A website that helps commuters find MRT/LRT stations, plan routes and receive alerts. This repository contains front-end code in the 'SmartCommute_FrontEnd' folder, and back-end code in the 'SmartCommute_BackEnd' folder
+- A website that helps commuters find MRT/LRT stations, plan routes and receive alerts. This repository contains front-end code in the 'SmartCommute_FrontEnd' folder, and back-end code in the 'SmartCommute_BackEnd' folder
+
+- Demo Video: https://youtu.be/y6PVm2eFhJ0
 
 ---
 
